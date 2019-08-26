@@ -1,0 +1,6 @@
+framework module Pods_Streamssss {
+  umbrella header "Pods-Streamssss-umbrella.h"
+
+  export *
+  module * { export * }
+}
